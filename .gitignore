@@ -1,3 +1,16 @@
+# Folders
+[Dd]ebug/
+[Bbin]/
+[Rr]elease/
+
+# User Specific
+*.suo
+*.user
+
+# Visual C++ cache files
+ipch/
+*.VC.db
+
 # Compiled Object files
 *.slo
 *.lo
